@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MySME Social Tools</string>
+    <string name="facebook_app_id">1510793805884908</string>
+    <string name="text_hint">What\'s the updates ?</string>
+    <string name="action_label">Post!</string>
+</resources>
